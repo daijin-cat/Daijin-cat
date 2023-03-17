@@ -8,7 +8,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/04b8NVK7cTY61NIiz7/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/04b8NVK7cTY61NIiz7/giphy.gif" width="65"> A little more about me...  
        
 ```javascript
 const Daijin-cat = {
