@@ -12,7 +12,7 @@
        
 ```javascript
 const DaijinCat = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
   askMeAbout: ["photography"],
   tools: [Practicing],
