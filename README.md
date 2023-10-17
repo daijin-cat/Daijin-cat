@@ -4,8 +4,6 @@
 </em></p>
 
 
-[![Instargram: Intern_Kun](https://img.shields.io/twitter/follow/Daijin1103?style=social)](https://twitter.com/Daijin1103) 
-
 
 
 ### <img src="https://media.giphy.com/media/04b8NVK7cTY61NIiz7/giphy.gif" width="65"> A little more about me...  
