@@ -3,8 +3,8 @@
 <p><em>Learning Software Enginnering at <a href="https://www.bc.ac.kr/bcu/main.do">University of Bucheon</a><img src="https://media.giphy.com/media/8e7IQjEdnkivIk81C2/giphy.gif" width="35"></br>If you want contact me <a href="https://www.instagram.com/intern_kun/?igshid=YmMyMTA2M2Y">@Intern_Kun</a><img src="https://media.giphy.com/media/bgu2GvmWzB7msNmevT/giphy.gif" width="35"> 
 </em></p>
 
-[![Twitter: Daijin1103](https://img.shields.io/badge/@Intern_Kun-E4405F?logo=instagram&style=social)](https://instagram.com/intern_kun?igshid=YmMyMTA2M2Y)
-//[![Instargram: Intern_Kun](https://img.shields.io/twitter/follow/Daijin1103?style=social)](https://twitter.com/Daijin1103)
+
+[![Instargram: Intern_Kun](https://img.shields.io/twitter/follow/Daijin1103?style=social)](https://twitter.com/Daijin1103) 
 
 
 
