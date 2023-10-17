@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Daijin1103](https://img.shields.io/badge/@Intern_Kun-E4405F?logo=instagram&style=social)](https://instagram.com/intern_kun?igshid=YmMyMTA2M2Y)
-[![Instargram: Intern_Kun](https://img.shields.io/twitter/follow/Daijin1103?style=social)](https://twitter.com/Daijin1103)
+//[![Instargram: Intern_Kun](https://img.shields.io/twitter/follow/Daijin1103?style=social)](https://twitter.com/Daijin1103)
 
 
 
